@@ -1,0 +1,9 @@
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\bin\Debug\Xestexana-qebul.exe.config
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\bin\Debug\Xestexana-qebul.exe
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\bin\Debug\Xestexana-qebul.pdb
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana-qebul.csprojResolveAssemblyReference.cache
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana_qebul.Form1.resources
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana_qebul.Properties.Resources.resources
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana-qebul.csproj.GenerateResource.Cache
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana-qebul.exe
+c:\users\p102\documents\visual studio 2017\Projects\Xestexana-qebul\Xestexana-qebul\obj\Debug\Xestexana-qebul.pdb
